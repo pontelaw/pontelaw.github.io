@@ -1,1 +1,1 @@
-Come along as I work and live. Austin Phillips.
+Come along as I work and live.
