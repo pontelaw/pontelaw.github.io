@@ -1,4 +1,4 @@
-## AustinI: A Chatbot with personality
+## AustinI: Chatbot With Personality - Intro
 
 For my main project this semester, I am building an AI chatbot that will take input and respond in a more natural way. Designed to combat the staleness of other AI, 
 this intelligence can hold normal conversations. I trained it on a .json of questions and answers built around my normal speech. This includes things like more vibrant and less stiff word choice.  
