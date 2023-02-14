@@ -23,14 +23,14 @@ title: Resume
    <li>Keen understanding of SQL queries and relational database creation and management.</li>
    <li>Experience working within the Google Cloud Console, including use of Cloud Storage.</li>
   </ul>
-<br><br>
+<br><br><br>
 <h3>Relevant Work Experience</h3>
   <b>Appalachian Voices, Boone, NC</b>
   <br>
   August 2022 - Feb 2023
   <br>
   Data Science Intern
-  <br><br>
+  <br>
     <ul>
       <li>Worked with the communications team to gain insights using social media data.</li>
       <li>Lead automation efforts to streamline pipelines containing data from Twitter, Facebook and Google Analytics.</li>
@@ -53,7 +53,7 @@ title: Resume
       <li>Strong cross-departmental communication skills between teams in India and remote teams in the US.</li>
       <li>Lead effort to revise existing codebases and create more efficient and coherent scripts.</li>
     </ul>
-  <br><br>
+  <br><br><br>
 <h3>Other Work Experience</h3> 
   <b>Appalachian Voices, Boone, NC</b>
   <br>
@@ -66,5 +66,5 @@ title: Resume
       <li>Maintained and updated a suite of 10 websites used to provide outreach to potential action takers in the environmental watchdog space.</li>
       <li>Delivered multiple visualizations for critical data to deploy to shareholders, used to increase outreach programs in under-represented areas of the Appalachian mountains.</li>
     </ul>
-  <br><br>
+  <br><br><br>
   <b>References available upon request. Feel free to email me about about collaborations or opportunities at the email above.</b>
