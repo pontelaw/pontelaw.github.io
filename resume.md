@@ -4,7 +4,8 @@ title: Resume
 ---
 
 <h1 align = center>Austin Phillips</h1>
-<h2 align = center>Boone, NC 28607 • (910) 835-6238 | pontelaw@appstate.edu | pontelaw.github.io</h2>
+<h3 align = center>Boone, NC 28607 | (910) 835-6238</h3>
+<h3 align = center>pontelaw@appstate.edu | pontelaw.github.io</h3>
 <h3>Education</h3>
   <b>Appalachian State University – Boone, NC</b>
   <br>
