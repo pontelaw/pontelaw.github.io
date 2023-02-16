@@ -30,7 +30,6 @@ title: Resume
   August 2022 - Feb 2023
   <br>
   Data Science Intern
-  <br>
     <ul>
       <li>Worked with the communications team to gain insights using social media data.</li>
       <li>Lead automation efforts to streamline pipelines containing data from Twitter, Facebook and Google Analytics.</li>
