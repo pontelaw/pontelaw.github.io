@@ -2,8 +2,9 @@
 layout: page
 title: About Me
 ---
-
+<div>
 <img src="https://github.com/pontelaw/pontelaw.github.io/blob/7f58a23c74e3dcaeb812bc1a7a04e86716703153/_images/20220721_141056.jpg" alt="Me" width="300" height="600" align="left"/>
+  </div>
 
 <div>
   _______________________________________________________________________________________________<br>
