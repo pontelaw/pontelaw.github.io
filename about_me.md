@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="_images/20220721_141056.jpg" alt="Me" width="300" height="600" align="left"/>
+<img src="./_images/20220721_141056.jpg" alt="Me" width="300" height="600" align="left"/>
 
 <div>
   _______________________________________________________________________________________________<br>
