@@ -2,16 +2,12 @@
 layout: page
 title: About Me
 ---
-<div>
-<img src="https://github.com/pontelaw/pontelaw.github.io/blob/7f58a23c74e3dcaeb812bc1a7a04e86716703153/_images/20220721_141056.jpg" alt="Me" width="300" height="600" align="left"/>
-  </div>
 
-<div>
   _______________________________________________________________________________________________<br>
   <b>Hello!</b>
   <br><br>
   My name is Austin Phillips and I am a Computer and Data Science student at Appalachian State University.  
-  <br><br>  
+  <br>
   
   I originally come from Wisconsin, but have made NC, SC, TX and KY home in the past.  
     
@@ -19,5 +15,5 @@ title: About Me
     
   I currently am looking for jobs as a Junior or Level 1 Data Scientist in the Raleigh or Dallas areas. I am also open for remote or hybrid work. My projected graduation is May 2023.  
   _________________________________________________________________________________________
-</div>
+
   
