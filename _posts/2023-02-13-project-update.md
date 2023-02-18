@@ -6,4 +6,4 @@ After many hours over the past weekend, we have a working (?) model! It barely w
   
 This has been an experiment to say the least, and I am seeing a lot of progress in my understanding of concepts like loss functions and model layering. Tuesday is my first presentation for the project. I'll let you know how it goes.
   
-![Figure 1-1](_images/Figure_1.png?raw=true)
+<img src="../_images/Figure_1.png" alt="Graphs"/>
