@@ -80,3 +80,29 @@ hr {
 .read-more:hover {
   text-decoration: underline;
 }
+
+.post-summary {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.post-summary:last-of-type {
+  margin-bottom: 0;
+}
+
+.archive-link {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.view-all {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: #007acc;
+  font-weight: bold;
+}
+
+.view-all:hover {
+  text-decoration: underline;
+}
