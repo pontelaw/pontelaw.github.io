@@ -4,7 +4,7 @@ layout: default
 <link href="/css/override.css" rel="stylesheet" type="text/css">
 
 <section class="blog-index">
-  {% for post in site.posts %}
+  {% for post in site.posts limit: 5 %}
   <article class="post-summary h-entry" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
       <h2 class="post-title p-name" itemprop="name headline">
@@ -25,4 +25,9 @@ layout: default
     <a href="{{ post.url | relative_url }}" class="read-more">Read More</a>
   </article>
   {% endfor %}
+
+  <div class="archive-link">
+    <a href="https://pontelaw.github.io/archive.html" class="view-all">View All Posts</a>
+  </div>
 </section>
+
