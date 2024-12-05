@@ -9,11 +9,11 @@ title: About Me
   My name is Austin Phillips and I am a Data Engineer at Forescout Technologies.  
   <br>
   
-  I originally come from Wisconsin, but have made NC, SC, TX and KY home in the past.  
+  I live in Texas, where I have been since graduating with a Bachelor's in Computer Science.  
     
-  My main passions in Computer and Data Science are relational databases, and data cleaning, analyzing, and management. I love taking a good dataset and making it speak.  
+  My main passions in Computer and Data Science are machine learning, project efficiency, and cloud operations. I someday hope to lead a team of likeminded people.  
     
-  I currently am looking to pursue a Masters Degree in Data Science.  
+  I am currently pursuing a Master's in Data Science at the University of Wisconsin, and will be completeing an MBA following graduation in 2025.  
   _________________________________________________________________________________________
 
   
