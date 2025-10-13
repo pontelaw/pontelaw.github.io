@@ -1,4 +1,4 @@
-# Neurosynth
+# Neurosynth - A CNN Emotion Classifier
 
 ## Objective
 The objective of Neurosynth was to create a real-time emotion to synth sound classifier.
